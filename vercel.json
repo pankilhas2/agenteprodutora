@@ -6,14 +6,16 @@
     "env": {
       "NEXT_PUBLIC_SUPABASE_URL": "@next_public_supabase_url",
       "NEXT_PUBLIC_SUPABASE_ANON_KEY": "@next_public_supabase_anon_key",
-      "DATABASE_URL": "@database_url",
-      "NEXT_PUBLIC_MP_PUBLIC_KEY": "@next_public_mp_public_key",
-      "MP_ACCESS_TOKEN": "@mp_access_token",
+      "NEXT_PUBLIC_GEMINI_API_KEY": "@next_public_gemini_api_key",
       "NEXT_PUBLIC_EMAILJS_SERVICE_ID": "@next_public_emailjs_service_id",
       "NEXT_PUBLIC_EMAILJS_TEMPLATE_ID": "@next_public_emailjs_template_id",
       "NEXT_PUBLIC_EMAILJS_USER_ID": "@next_public_emailjs_user_id",
-      "NEXT_PUBLIC_GROQ_API_KEY": "@next_public_groq_api_key",
-      "GOOGLE_TTS_API_KEY": "@google_tts_api_key"
+      "MERCADO_PAGO_ACCESS_TOKEN": "@mercado_pago_access_token",
+      "MERCADO_PAGO_PUBLIC_KEY": "@mercado_pago_public_key",
+      "MERCADO_PAGO_CLIENT_ID": "@mercado_pago_client_id",
+      "MERCADO_PAGO_CLIENT_SECRET": "@mercado_pago_client_secret",
+      "GOOGLE_TTS_API_KEY": "@google_tts_api_key",
+      "GROQ_API_KEY": "@groq_api_key"
     }
   }
 }
